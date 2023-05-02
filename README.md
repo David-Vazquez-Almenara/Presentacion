@@ -1,4 +1,4 @@
-![# David Vazquez Almenara](https://i.imgur.com/28nrnlH.png)
+![# David Vazquez Almenara](https://i.imgur.com/28nr nlH.png)
 Esta es mi presentacion en *GitHub*, aqui me gustaria compartir mi **curriculum vitae** y algunos trabajos que me han servido para reforzar y avanzar mi nivel en programacion.
 
 
