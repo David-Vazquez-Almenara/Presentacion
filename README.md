@@ -9,14 +9,14 @@ Pues si, asi es, actualmente dispongo de un grado superior de **micro informatic
 
 Actualmente tengo unas bases en estos lenguajes de programacion:
 
-`
-Java
-`
+```
+◼ Java
+```
 
 Tambien dispongo de grandes avilidades para:
 
 ```
-HTML
+◼ HTML
 
-CSS
+◼ CSS
 ```
