@@ -1,7 +1,7 @@
 # David Vazquez Almenara
 Esta es mi presentacion en *GitHub*, aqui me gustaria compartir mi **curriculum vitae** y algunos trabajos que me han servido para reforzar y avanzar mi nivel en programacion.
 
-![Foto de perfil](https://drive.google.com/drive/folders/1drZPjDctKMMW_P4FCTTXXoavN4C39MM2)
+![Foto de perfil]([https://drive.google.com/drive/folders/1drZPjDctKMMW_P4FCTTXXoavN4C39MM2](https://drive.google.com/file/d/15JDbbcjrWa0NpJE69YfWpp-fjhWHYXRw/view?usp=sharing))
 
 ## ¿Como?, ¿Que no sabias que soy programador?...
 
