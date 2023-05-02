@@ -8,14 +8,14 @@ Esta es mi presentacion en *GitHub*, aqui me gustaria compartir mi **curriculum 
 Pues si, asi es, actualmente dispongo de un grado superior de **micro informatica y redes** y actualmente estoy cursando en el **grado superior de aplicacion web e interactivas**
 
 Actualmente tengo unas bases en estos lenguajes de programacion:
-
 ```
 ◼ Java
 ```
 
-Tambien dispongo de grandes avilidades para:
-
+Tambien dispongo de grandes habilidades para:
 ```
 ▪ HTML
 ▪ CSS
 ```
+
+Mi objetivo a futuro es estudiar y aprender **JavaScript** para poder completar y estructurar de mejor manera los proyectos de *HTML*
