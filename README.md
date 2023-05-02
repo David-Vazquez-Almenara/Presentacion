@@ -4,7 +4,7 @@ Esta es mi presentacion en **GitHub**, aqui me gustaria compartir mi *curriculum
 
 ## ¿Como?, ¿Que no sabias que soy programador?
 
-Pues si, asi es, dispongo de un grado superior de **micro informatica y redes** y actualmente estoy cursando en el **grado superior de aplicacion web e interactivas**
+Pues si, asi es, dispongo de un grado superior de **micro informatica y redes**, y actualmente estoy cursando en el **grado superior de aplicacion web e interactivas**
 
 Actualmente tengo unas bases en estos lenguajes de programacion:
 ```
