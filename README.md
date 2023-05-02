@@ -1,5 +1,5 @@
 ![David Vazquez Almenara - PRESENTACION](https://i.imgur.com/28nrnlH.png) 
-Esta es mi presentacion en *GitHub*, aqui me gustaria compartir mi **curriculum vitae** y algunos trabajos que me han servido para reforzar y avanzar mi nivel en programacion.
+Esta es mi presentacion en **GitHub**, aqui me gustaria compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programacion.
 
 
 ## ¿Como?, ¿Que no sabias que soy programador?
