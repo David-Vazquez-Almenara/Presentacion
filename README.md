@@ -1,17 +1,17 @@
 ![David Vazquez Almenara - PRESENTACION](https://i.imgur.com/28nrnlH.png) 
-Esta es mi presentacion en **GitHub**, aqui me gustaria compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programacion.
+Esta es mi presentación en **GitHub**, aqui me gustaria compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programación.
 
 
-## ¿Como?, ¿Que no sabias que soy programador?
+## ¿Como?, ¿Qué no sabías que soy programador?
 
-Pues si, asi es, dispongo de un grado medio de **microinformática y redes** y actualmente estoy cursando en el **grado superior de aplicacion web e interactivas**
+Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticos y redes**. Actualmente estoy cursando en el grado superior de **resarollo de aplicaciones web e interactivas**
 
-Actualmente tengo unas bases en estos lenguajes de programacion:
+Actualmente tengo unas bases en estos lenguajes de programación:
 ```
 ◼ Java
 ```
 
-Tambien dispongo de grandes habilidades para:
+También dispongo de grandes habilidades para:
 ```
 ▪ HTML
 ▪ CSS
