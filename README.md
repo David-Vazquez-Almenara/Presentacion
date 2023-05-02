@@ -18,4 +18,4 @@ Tambien dispongo de grandes habilidades para:
 ▪ CSS
 ```
 
-Mi objetivo a futuro es estudiar y aprender **JavaScript** para poder completar y estructurar de mejor manera los proyectos de *HTML*
+Mi objetivo a futuro es estudiar y aprender **JavaScript** para poder completar y estructurar de mejor manera los proyectos de *HTML*.
