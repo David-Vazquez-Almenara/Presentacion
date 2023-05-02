@@ -16,7 +16,7 @@ Actualmente tengo unas bases en estos lenguajes de programacion:
 Tambien dispongo de grandes avilidades para:
 
 ```
-◼ HTML
+◼▪◽◾◾ HTML
 
 ◼ CSS
 ```
