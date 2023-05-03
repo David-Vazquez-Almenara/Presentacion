@@ -21,7 +21,7 @@ Mi objetivo a futuro es estudiar y aprender **JavaScript** para poder completar 
 
 <BR>
   <BR>
-    <BR>
+  
 ![Más sobre mi - PRESENTACION](https://i.imgur.com/vSHjDtb.png) 
 ## ¿Quién soy?
 
