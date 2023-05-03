@@ -18,3 +18,12 @@ También dispongo de grandes habilidades para:
 ```
 
 Mi objetivo a futuro es estudiar y aprender **JavaScript** para poder completar y estructurar de mejor manera los proyectos de *HTML*.
+
+
+## Más sobre mi
+
+Aqui puede encontrar mi **curriculum vitae** y **El repositorio donde se encuentra**:
+
+[Curriculum vitae](https://htmlpreview.github.io/?https://github.com/David-Vazquez-Almenara/Curriculum-Vitae/blob/main/archivos/index.html#inicio)
+
+[**REPOSITORIO**](https://github.com/David-Vazquez-Almenara/Curriculum-Vitae)
