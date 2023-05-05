@@ -35,4 +35,10 @@ Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuen
     
 ## Mis fuertes
     
-Tengo una gran experiencia usando photoshop y apps similares (Gimp o versiones online como Photopea)
+Tengo una gran experiencia usando editores de imagenes como:
+>Photoshop
+>Gimp
+>Photopea(Version online gratuita de Photoshop)
+
+ <BR>
+
