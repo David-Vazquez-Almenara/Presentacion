@@ -43,3 +43,7 @@ Tengo una gran experiencia usando editores de imagenes como:
 ```
  <BR>
 
+   
+   ## Otras experiencias
+   
+   Estuve de practicas y después trabajando en una empresa de instalación de dispositivos e impresoras. Este puesto me ayudo a para
