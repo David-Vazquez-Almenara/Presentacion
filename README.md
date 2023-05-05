@@ -39,7 +39,7 @@ Tengo una gran experiencia usando editores de imagenes como:
 ```
 ◼ Photoshop
 ◼ Gimp
-◼ Photopea(Version online gratuita de Photoshop)
+◼ Photopea (Version online gratuita de Photoshop)
 ```
  <BR>
 
