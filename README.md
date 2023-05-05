@@ -46,4 +46,4 @@ Tengo una gran experiencia usando editores de imágenes como:
    
    ## Otras experiencias
    
-   Estuve de prácticas y después trabajando en una empresa de instalación de dispositivos e impresoras. Este puesto me enseñó la importancia de la atención al cliente y la resolución de problemas técnicos. Además, aprendí la importancia de trabajar en equipo para lograr objetivos.
+   Estuve de prácticas y trabajando en una empresa de instalación de dispositivos e impresoras. Este puesto me enseñó la importancia de la atención al cliente y la resolución de problemas técnicos. Además, aprendí la importancia de trabajar en equipo para lograr objetivos.
