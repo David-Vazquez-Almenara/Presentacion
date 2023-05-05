@@ -32,6 +32,6 @@ Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuen
 > 
 > [**REPOSITORIO**](https://github.com/David-Vazquez-Almenara/Curriculum-Vitae)
 
-Tengo una gran experiencia usando photoshop y apps similares (Gimp o versiones online como www.photopea.com)
+Tengo una gran experiencia usando photoshop y apps similares (Gimp o versiones online como Photopea)
 
 <img src="https://i.imgur.com/ZcXn7W8.png" width="70px">
