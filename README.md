@@ -50,14 +50,25 @@ Tengo una gran experiencia usando editores de imágenes como:
 En esta empresa pude trabajar con importantes marcas como:
 
 > Canon
+ >   
 > HP
+   > 
 > Epson
+   > 
 > Brother
+   > 
 > Kyozera
+   > 
 > Lexmark
+   > 
 > Kindtong
+   > 
 > NVIDIA
+   > 
 > ASUS
+   > 
 > Acer
+   > 
 > LG
    >
+  
