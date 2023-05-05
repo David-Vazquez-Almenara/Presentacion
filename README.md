@@ -1,12 +1,12 @@
-![David Vazquez Almenara - PRESENTACION](https://i.imgur.com/28nrnlH.png) 
-Esta es mi presentación en **GitHub**, aqui me gustaria compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programación.
+![David Vázquez Almenara - PRESENTACIÓN](https://i.imgur.com/28nrnlH.png) 
+Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programación.
 
 
-## ¿Como?, ¿Qué no sabías que soy programador?
+## ¿Cómo?, ¿Qué no sabías que soy programador?
 
-Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticos y redes**. Actualmente estoy cursando en el grado superior de **resarollo de aplicaciones web e interactivas**
+Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticas y redes**. Actualmente, estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**
 
-Actualmente tengo unas bases en estos lenguajes de programación:
+Actualmente, tengo unas bases en estos lenguajes de programación:
 ```
 ◼ Java
 ```
@@ -23,7 +23,7 @@ Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** para poder
 <BR>
   <BR>
   
-![Más sobre mi - PRESENTACION](https://i.imgur.com/vSHjDtb.png) 
+![Más sobre mí - PRESENTACIÓN](https://i.imgur.com/vSHjDtb.png) 
 ## ¿Quién soy?
 
 Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuentra**:
@@ -35,7 +35,7 @@ Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuen
     
 ## Mis fuertes
     
-Tengo una gran experiencia usando editores de imagenes como:
+Tengo una gran experiencia usando editores de imágenes como:
 ```
 ◼ Photoshop
 ◼ Gimp
@@ -46,4 +46,4 @@ Tengo una gran experiencia usando editores de imagenes como:
    
    ## Otras experiencias
    
-   Estuve de practicas y después trabajando en una empresa de instalación de dispositivos e impresoras. Este puesto me ayudo a para
+   Estuve de prácticas y después trabajando en una empresa de instalación de dispositivos e impresoras. Este puesto me ayudo a para
