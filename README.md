@@ -31,3 +31,7 @@ Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuen
 > [**CURRICULUM VITAE**](https://htmlpreview.github.io/?https://github.com/David-Vazquez-Almenara/Curriculum-Vitae/blob/main/archivos/index.html#inicio)
 > 
 > [**REPOSITORIO**](https://github.com/David-Vazquez-Almenara/Curriculum-Vitae)
+
+
+
+![Logo photoshop](https://i.imgur.com/ZcXn7W8.png)
