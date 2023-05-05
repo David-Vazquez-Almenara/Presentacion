@@ -34,4 +34,4 @@ Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuen
 
 
 
-![Logo photoshop](https://i.imgur.com/ZcXn7W8.png)
+<img src="https://i.imgur.com/ZcXn7W8.png" style=heist:"20px";>
