@@ -28,7 +28,7 @@ Desde siempre me ha apasionado el mundo de la informática, cuando tenía entre 
 
 Aquí puedes encontrar mi **curriculum vitae** para saber más sobre mi vida profesional:
 
-> [**CURRICULUM VITAE EN PDF**]([https://htmlpreview.github.io/?https://github.com/David-Vazquez-Almenara/Curriculum-Vitae/blob/main/archivos/index.html#inicio](https://drive.google.com/file/d/1-WdB5GQLdo_VRbRhgzG58ZDaEWfKaRP0/view?usp=share_link))
+> [**CURRICULUM VITAE EN PDF**](https://drive.google.com/file/d/1-WdB5GQLdo_VRbRhgzG58ZDaEWfKaRP0/view?usp=share_link)
   <BR>
     
 ## Mis fuertes
