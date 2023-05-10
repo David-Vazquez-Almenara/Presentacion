@@ -22,7 +22,11 @@ Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** y **PHP** 
 ![Más sobre mí - PRESENTACIÓN](https://i.imgur.com/vSHjDtb.png) 
 ## ¿Quién soy?
 
-Aquí puedes encontrar mi **curriculum vitae**:
+    
+Desde siempre me ha apasionado el mundo de la informática, cuando tenía entre **16** y **17** años ya montaba y desmmontaba mi ordenador simplemente porque me apasionaba y queria aprender, juntandolo también con que empecé a aprender a usar *editores de imágenes y vídeo*. Con **18** años empecé a usar **HTML** y **CSS** para proyectos personales, ahí es donde me empecé a interesar por la programación y en la actualidad no me arrepiento de estar especializarme en este ámbito.
+
+
+Aquí puedes encontrar mi **curriculum vitae** para saber más sobre mi vida profesional:
 
 > [**CURRICULUM VITAE EN PDF**](https://htmlpreview.github.io/?https://github.com/David-Vazquez-Almenara/Curriculum-Vitae/blob/main/archivos/index.html#inicio)
   <BR>
