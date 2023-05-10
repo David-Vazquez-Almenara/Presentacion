@@ -22,7 +22,7 @@ Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** para poder
 ![Más sobre mí - PRESENTACIÓN](https://i.imgur.com/vSHjDtb.png) 
 ## ¿Quién soy?
 
-Aquí puede encontrar mi **curriculum vitae** y **el repositorio donde se encuentra**:
+Aquí puedes encontrar mi **curriculum vitae**:
 
 > [**CURRICULUM VITAE EN PDF**](https://htmlpreview.github.io/?https://github.com/David-Vazquez-Almenara/Curriculum-Vitae/blob/main/archivos/index.html#inicio)
   <BR>
