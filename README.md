@@ -53,5 +53,5 @@ En esta empresa pude trabajar con importantes marcas como:
    ```
     Canon - HP - LG - NVIDIA - Epson - Brother - Kyozera - Lexmark - Kindtong - ASUS - Acer
    ```
-Como mencione ateriormente, tengo experiencia en istalación de equipos, sobre todo de PCs gracias a que estube de practicas en una empresa de reciclaje donde mis compañeros y yo nos dedicabamos a inspeccionar, arreglar y mantener los equipos que llegaban.
+Como mencione anteriormente, tengo experiencia en instalación de equipos, sobre todo de PCs gracias a que estuve de prácticas en una empresa de reciclaje donde mis compañeros y yo nos dedicábamos a inspeccionar, arreglar y mantener los equipos que llegaban.
   
