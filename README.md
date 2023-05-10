@@ -6,7 +6,7 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticas y redes**. Actualmente, estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**
 
-Actualmente, tengo una base basteante buena en **JAVA**, pero aun me queda mucho por aprender y mejorar.
+Actualmente, tengo una base bastante buena en **JAVA**, pero aun me queda mucho por aprender y mejorar.
 
 También dispongo de grandes habilidades para:
 ```
@@ -38,7 +38,6 @@ Tengo una gran experiencia usando editores de imágenes como:
 ◼ Photopea (Version online gratuita de Photoshop)
 ```
     
-Aparte,
  <BR>
 
    
