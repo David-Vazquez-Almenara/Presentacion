@@ -4,7 +4,7 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 ## ¿Cómo?, ¿Qué no sabías que soy programador?
 
-Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticas y redes**. Actualmente, estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**
+Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticas y redes**. En la actualidad estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**
 
 Actualmente, tengo una base bastante buena en **JAVA**, pero aun me queda mucho por aprender y mejorar.
 
