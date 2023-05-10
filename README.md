@@ -6,16 +6,12 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticas y redes**. Actualmente, estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**
 
-Actualmente, tengo unas bases en estos lenguajes de programación:
-```
-◼ Java
-```
+Actualmente, tengo una base basteante buena en **JAVA**, pero aun me queda mucho por aprender y mejorar.
 
 También dispongo de grandes habilidades para:
 ```
 ▪ HTML
 ▪ CSS
-▪ XML
 ```
 
 Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** para poder completar y estructurar de mejor manera los proyectos de *HTML*.
@@ -43,6 +39,8 @@ Tengo una gran experiencia usando editores de imágenes como:
 ◼ Gimp
 ◼ Photopea (Version online gratuita de Photoshop)
 ```
+    
+Aparte,
  <BR>
 
    
@@ -55,5 +53,5 @@ En esta empresa pude trabajar con importantes marcas como:
    ```
     Canon - HP - LG - NVIDIA - Epson - Brother - Kyozera - Lexmark - Kindtong - ASUS - Acer
    ```
-   
+Como mencione ateriormente, tengo experiencia en istalación de equipos, sobre todo de PCs gracias a que estube de practicas en una empresa de reciclaje donde mis compañeros y yo nos dedicabamos a inspeccionar, arreglar y mantener los equipos que llegaban.
   
