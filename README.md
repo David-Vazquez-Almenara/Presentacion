@@ -23,7 +23,7 @@ Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** y **PHP** 
 ## ¿Quién soy?
 
     
-Desde siempre me ha apasionado el mundo de la informática, cuando tenía entre **16** y **17** años ya montaba y desmontaba mi ordenador simplemente porque me apasionaba y queria aprender, juntandolo también con que empecé a aprender a usar *editores de imágenes y vídeo*. Con **18** años empecé a usar **HTML** y **CSS** para proyectos personales, ahí es donde empecé a interesar por la programación y en la actualidad no me arrepiento de estar especializarme en este ámbito.
+Desde siempre me ha apasionado el mundo de la informática, cuando tenía entre **16** y **17** años ya montaba y desmontaba mi ordenador simplemente porque me apasionaba y queria aprender, juntandolo también con que empecé a aprender a usar *editores de imágenes y vídeo*. Con **18** años empecé a usar **HTML** y **CSS** para proyectos personales, ahí es donde empecé a interesarme por la programación y en la actualidad no me arrepiento de estar especializarme en este ámbito.
 
 
 Aquí puedes encontrar mi **curriculum vitae** para saber más sobre mi vida profesional:
