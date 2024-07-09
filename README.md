@@ -4,17 +4,18 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 ## ¿Cómo?, ¿Qué no sabías que soy programador?
 
-Pues sí, así es, dispongo de un grado medio de **sistemas microinformáticos y redes**. En la actualidad estoy cursando en el grado superior de **desarrollo de aplicaciones web e interactivas**.
+Pues sí, así es, dispongo de un Grado Medio de **sistemas microinformáticos y redes** y un  Grado Superior de **desarrollo de aplicaciones web e interactivas**.
 
-Actualmente, tengo una base bastante buena en **JAVA**, pero aun me queda mucho por aprender y mejorar.
+Actualmente, tengo una base bastante buena en **JAVA** y **JavaScript, pero aun me queda mucho por aprender y mejorar.
 
 También dispongo de grandes habilidades para:
 ```
 ▪ HTML
 ▪ CSS
+▪ Manejo de peticiones a bases de datos
 ```
 
-Mi objetivo a futuro es reforzar y aprender más sobre **JavaScript** y **PHP** para poder completar y estructurar de mejor manera los proyectos de *HTML*.
+Mi objetivo a futuro es reforzar y aprender más sobre **Pyton** y **PHP** para poder completar y estructurar de mejor manera mis proyectos.
 
 <BR>
   <BR>
@@ -54,3 +55,4 @@ En esta empresa pude trabajar con importantes marcas como:
    ```
 Como mencione anteriormente, tengo experiencia en instalación de equipos, sobre todo de PCs gracias a que estuve de prácticas(FCT) en una empresa de reciclaje donde mis compañeros y yo nos dedicábamos a inspeccionar, arreglar y mantener los equipos que llegaban.
   
+Y en mi últimas prácticas en la **FCT** he estado trabajando durante 3 meses en una empresa valenciana dedicada única y exclusivamente al desarrollo de su aplicación web participando en todas las áreas del proyecto como: Uso e instalación de Angular, manejo de base de datos, peticiones y funciones tanto para **Backend** como para **Frontend**, y lo más importante, aprendí la importancia de estar comunicado con el equipo, hacer reuniones diarias, semanales y organizar el trabajo usando tanto **Git** como **Jira**.
