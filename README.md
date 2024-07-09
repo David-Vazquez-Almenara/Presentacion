@@ -54,7 +54,8 @@ En esta empresa pude trabajar con importantes marcas como:
     Canon - HP - LG - NVIDIA - Epson - Brother - Kyozera - Lexmark - Kindtong - ASUS - Acer
    ```
 Como mencione anteriormente, tengo experiencia en instalación de equipos, sobre todo de PCs gracias a que estuve de prácticas en una empresa de reciclaje donde mis compañeros y yo nos dedicábamos a inspeccionar, arreglar y mantener los equipos que llegaban.
-  
+  <BR>
+  <BR>
 Y en mi últimas prácticas, en la **FCT**, he estado trabajando durante 3 meses en una empresa valenciana dedicada única y exclusivamente al desarrollo de su aplicación web, participando en todas las áreas del proyecto como:
  <BR> <BR>
 Uso e instalación de Angular, manejo de base de datos, peticiones y funciones tanto para **Backend** como para **Frontend**, y lo más importante, aprendí la importancia de estar comunicado con el equipo, hacer reuniones diarias, semanales y organizar el trabajo usando tanto **Git** como **Jira**.
