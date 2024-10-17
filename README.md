@@ -6,7 +6,7 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 Pues sí, así es, dispongo de un Grado Medio de **sistemas microinformáticos y redes** y un  Grado Superior de **desarrollo de aplicaciones web e interactivas**.
 
-Actualmente, tengo una base bastante buena en **JAVA** y **JavaScript, pero aun me queda mucho por aprender y mejorar.
+Actualmente, tengo una base bastante buena en **JAVA** y **JavaScript**, pero aun me queda mucho por aprender y mejorar.
 
 También dispongo de grandes habilidades para:
 ```
